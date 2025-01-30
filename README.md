@@ -7,7 +7,7 @@ Le pilotage se fera de plusieurs manières afin d'être le plus compatible possi
 
 Les différents types de pilotage seront les suivants :
 
--pilotage via port CAT depuis un ordinateur avec un logiciel supportant le protocole CAT (TS200). (liaison sans fil). 
+-pilotage via port CAT depuis un ordinateur avec un logiciel supportant le protocole CAT (TS2000). (liaison sans fil). 
 
 -pilotage via boîtier de commande dans le shack (joystick + boutons + ecran) (liaison sans fil). 
 
