@@ -1,21 +1,21 @@
 # RDS-project
 Radio Domination System (RDS) 
 
-Ce projet permet d'asservir un shack radio avec un groupement d'antennes de tout types à l'aide d'une liaison sans fil wifi 2.4 ghz ou par câble. 
+Ce projet permet d'asservir un shack radio avec un groupement d'antennes de tout types à l'aide d'une liaison sans fil wifi 2.4 GHz ou filaire. 
 
 Le pilotage se fera de plusieurs manières afin d'être le plus compatible possible avec d'autres installations. 
 
 Les différents types de pilotage seront les suivants :
 
--pilotage via port CAT depuis un ordinateur avec un logiciel supportant le protocole CAT (TS2000). (liaison sans fil). 
+-pilotage filaire via port CAT depuis un ordinateur avec un logiciel supportant le protocole CAT (TS2000). 
 
--pilotage via boîtier de commande dans le shack (joystick + boutons + ecran) (liaison sans fil). 
+-pilotage radio en 2.4Ghz via boîtier de commande dans le shack (joystick + boutons + écran). 
 
--Pilotage via bouton, potentiomètre, uniquement pour le condensateur variable dans un premier temps. Liaison par câble. 
+-Pilotage filaire direct via bouton, potentiomètre, uniquement pour le condensateur variable dans un premier temps.
 
 Les différentes fonctions seront les suivantes :
 
--Pilotage de condensateur variable custom pour une antenne loop avec synthonisation automatique (projet mené en parallèle). 
+-Pilotage de condensateur variable custom pour une antenne loop avec synthonisation automatique (projet initial). 
 
 -pilotage de rotor
 
