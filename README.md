@@ -11,7 +11,7 @@ Les différents types de pilotage seront les suivants :
 
 -pilotage via boîtier de commande dans le shack (joystick + boutons + ecran) (liaison sans fil). 
 
--Pilotage via bouton, potard, uniquement pour le condensateur variable dans un premier temps. Liaison par câble. 
+-Pilotage via bouton, potentiomètre, uniquement pour le condensateur variable dans un premier temps. Liaison par câble. 
 
 Les différentes fonctions seront les suivantes :
 
